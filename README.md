@@ -1,4 +1,4 @@
-# Projeto-Banco-de-Dados-Integra-o-Comercial-
+# Projeto-Banco-de-Dados-Integração-Comercial
 Projeto realizado durante o segundo periodo em Tecnologia em Banco de Dados
 
   O sucesso esportivo está intimamente ligado aos recursos financeiros
